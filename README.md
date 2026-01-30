@@ -173,7 +173,7 @@ python feature.py
 
 ### Image Segmentation
 
-**Step 1**: Generate masks (if needed)
+**Step 1**: Generate masks
 ```bash
 python generate_masks.py
 ```
@@ -277,7 +277,7 @@ This project is open source and available for educational and research purposes.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - OpenCV for feature detection algorithms
 - TensorFlow/Keras for deep learning framework
